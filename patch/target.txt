@@ -83,7 +83,7 @@ barber-ayers.biz/app/main/explore/home.html
 massey.com/main/blog/tags/index/
 collins.net/register/
 www.barnes.com/
-https://pythagore879303904.wordpress.com/
+pythagore879303904.wordpress.com/
 berry-stout.info/tag/tags/blog/category.asp
 www.conrad-brown.com/categories/wp-content/terms.htm
 myers.com/
